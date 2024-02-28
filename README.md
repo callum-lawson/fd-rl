@@ -11,5 +11,5 @@ Experiments with frequency-dependent selection in reinforcement learning
 
 - Which methods are best at finding these solutions?:
     - RL
-    - Evolutionary algorithms (turn off enviornmental feedback)
+    - Evolutionary algorithms (turn off environmental feedback)
     - Frequency-dependent selection 
