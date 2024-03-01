@@ -1,5 +1,6 @@
-numpy==1.26.4
+numpy==1.26.4 # contained within JAX
 pandas==2.2.0
-scikit-learn==1.4.0
+scikit-learn==1.4.0 # contained within JAX
 matplotlib==3.8.2
 notebook==7.1.0
+jax=0.4.25
