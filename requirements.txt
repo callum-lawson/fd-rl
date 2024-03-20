@@ -8,3 +8,4 @@ optax==0.1.9
 flax==0.8.1
 tqdm==4.66.2
 torch==2.2.1
+minigrid==2.3.1
